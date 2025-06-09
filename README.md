@@ -6,7 +6,7 @@ This neural net outputs a json model that can be plugged directly into Quantower
 
 **Plans for this project**:
 - Will rewrite this model in C++ both to practice my C++ programming and optimize for performance.
-- Intend to evolve this base model into an LSTM re-current neural network.
+- Intend to evolve this base model into an LSTM recurrent neural network.
 - Will add a Quantower strategy script to this repo that allows the model to execute trades in Quantower.
 
 # Data Disclaimer
